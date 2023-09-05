@@ -9,3 +9,9 @@ Project Goal: Develop a predictive model for fraud detection in a financial data
 4)  Preprocessed the data, oversampled and undersampled to handle class imbalance, scaled the data, and selected the top features.
 5)  Finally built, evaluated, and compared five classification models, concluding that the RandomForestClassifier performed the best.
 6)  Concluded it by providing key insights and recommendations for fraud prevention.
+
+
+# Data Source
+https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV
+
+
