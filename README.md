@@ -15,3 +15,12 @@ Project Goal: Develop a predictive model for fraud detection in a financial data
 https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV
 
 
+# Technical Stack used
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- statistics
+- sklearn
+- imblearn -> oversampling and undersampling
+- classification algorithms 1. LogisticRegression()  2. KNeighborsClassifier()  3. RandomForestClassifier()  4. XGBClassifier()  5. DecisionTreeClassifier()
